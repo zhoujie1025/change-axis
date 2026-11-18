@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "点移 PointShift",
+    "slug": "pointshift",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F5F7F6",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.pointshift.mobile", "infoPlist": { "ITSAppUsesNonExemptEncryption": false } },
+    "android": { "package": "com.pointshift.mobile" },
+    "web": { "name": "点移 PointShift", "bundler": "metro", "output": "single" },
+    "experiments": { "autolinkingModuleResolution": true }
+  }
+}
